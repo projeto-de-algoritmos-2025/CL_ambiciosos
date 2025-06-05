@@ -14,7 +14,7 @@ A resolução dessa questão foi gravada e você pode assistir ao vídeo para ve
 
 ## Dificuldade
 
-Média
+Difícil
 
 ## Enunciado
 ![image](https://github.com/user-attachments/assets/bea39e2f-7c4e-4f05-aa6f-6b3f80ada44f)
