@@ -27,9 +27,9 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | Exercício | Enunciado | Dificuldade | Autor da Resolução | Observações |
 | :--: | -- | :--: | -- | -- |
 | 1 | []() | Média | Lucas Ribeiro de Souza |  |
-| 2 | []() | Média | João Víctor Costa Andrade |  |
+| 2 | []() | Difícil | João Víctor Costa Andrade |  |
 | 3 | []() | Difícil | Lucas Ribeiro de Souza |  |
-| 4 | []() | Difícil | João Víctor Costa Andrade |  |
+| 4 | []() | Média | João Víctor Costa Andrade |  |
 
 ## Disciplina
 
