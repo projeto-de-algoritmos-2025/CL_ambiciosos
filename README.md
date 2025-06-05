@@ -24,12 +24,12 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 
 ## Exercícios Resolvidos
 
-| Exercício | Enunciado | Dificuldade | Autor da Resolução | Observações |
+| Exercício | Enunciado | Dificuldade | Autor da Resolução |
 | :--: | -- | :--: | -- | -- |
 | 1 | []() | Média | Lucas Ribeiro de Souza |  |
-| 2 | []() | Difícil | João Víctor Costa Andrade |  |
+| 2 | [2402. Salas de Reunião III](https://leetcode.com/problems/meeting-rooms-iii/description/) | Difícil | João Víctor Costa Andrade |
 | 3 | []() | Difícil | Lucas Ribeiro de Souza |  |
-| 4 | []() | Média | João Víctor Costa Andrade |  |
+| 4 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Média | João Víctor Costa Andrade |
 
 ## Disciplina
 
