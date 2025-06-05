@@ -25,7 +25,7 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 ## Exercícios Resolvidos
 
 | Exercício | Enunciado | Dificuldade | Autor da Resolução |
-| :--: | -- | :--: | -- | -- |
+| :--: | -- | :--: | -- |
 | 1 | []() | Média | Lucas Ribeiro de Souza |  |
 | 2 | [2402. Salas de Reunião III](https://leetcode.com/problems/meeting-rooms-iii/description/) | Difícil | João Víctor Costa Andrade |
 | 3 | []() | Difícil | Lucas Ribeiro de Souza |  |
