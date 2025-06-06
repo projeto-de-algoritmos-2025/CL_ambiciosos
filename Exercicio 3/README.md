@@ -1,58 +1,42 @@
-# 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+# 2136. Earliest Possible Day of Full Bloom
 
 ## Questão
 
 A questão foi resolvida no LeetCode, onde você pode conferir o enunciado completo.
 
-[Ver questão no LeetCode](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/?envType=problem-list-v2&envId=2cthq20h)    
+[Ver questão no LeetCode](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/?envType=problem-list-v2&envId=n5q0ap4i)    
 
 ## Gravação
 
 A resolução dessa questão foi gravada e você pode assistir ao vídeo para ver o passo a passo da solução.
 
-[Clique aqui para assistir](https://youtu.be/x45eKyT45RI)
+[Clique aqui para assistir]()
 
 ## Dificuldade
 
-Média
+Difícil
 
 ## Enunciado
 
-Você recebe um inteiro `n`. Há um grafo não direcionado com `n` nós, numerados de `0` a `n - 1`. Você recebe um array de inteiros 2D `arestas`, onde `arestas[i] = [ai, bi]` denota que existe uma aresta não direcionada conectando os nós `ai` e `bi`.
-
-Retorna o número de pares de nós diferentes que são inalcançáveis ​​entre si.
+![image](https://github.com/user-attachments/assets/3051e1f5-f74d-4fb9-ad8e-e39ee355a695)
 
 ## Exemplos
 
 ### Exemplo 1
 
-![image](https://github.com/user-attachments/assets/e03c9343-3307-45b0-b598-77efcc508f08)
-
->**Input**: n = 3, edges = [[0,1],[0,2],[1,2]]<br>
->**Output**: 0<br>
->**Explicação**: Não há pares de nós inacessíveis entre si. Portanto, retornamos 0.
+![image](https://github.com/user-attachments/assets/4cc92f01-82c5-4c54-86db-f972a67a8f4d)
 
 ### Exemplo 2
 
-![image](https://github.com/user-attachments/assets/9f731a34-78c3-42e2-9e53-fd9a47b35182)
+![image](https://github.com/user-attachments/assets/a41ce377-b9b0-4a45-8fc7-c2c4339caaef)
 
->**Input**: n = 7, edges = [[0,2],[0,5],[2,4],[1,6],[5,4]]<br>
->**Output**: 14<br>
->**Explicação**: Existem 14 pares de nós que são inacessíveis entre si:
-[[0,1],[0,3],[0,6],[1,2],[1,3],[1,4],[1,5],[2,3],[2,6],[3,4],[3,5],[3,6],[4,6],[5,6]].
-Therefore, we return 14.
+### Exemplo 3
+
+![image](https://github.com/user-attachments/assets/d2f088b6-4ecf-4230-b231-1daa931e605e)
 
 ## Restrições
 
-- `1 <= n <= 105`
-- `0 <= edges.length <= 2 * 105`
-- `edges[i].length == 2`
-- `0 <= ai, bi < n`
-- `ai != bi`
-- Não há arestas repetidas.
+![image](https://github.com/user-attachments/assets/f685a15b-0cb8-448a-94d2-045496114930)
 
 ## Submissões
 
-![image](https://github.com/user-attachments/assets/8e0dcdd1-385e-4b21-9479-f4f9c3e30c37)
-
-![image](https://github.com/user-attachments/assets/60cf67cc-5509-4d84-8780-a401b1e617ae)
