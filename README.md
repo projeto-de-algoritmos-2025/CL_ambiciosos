@@ -26,9 +26,9 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 
 | Exercício | Enunciado | Dificuldade | Autor da Resolução |
 | :--: | -- | :--: | -- |
-| 1 | []() | Média | Lucas Ribeiro de Souza |  |
+| 1 | [322. Coin Change](https://leetcode.com/problems/coin-change/?envType=problem-list-v2&envId=n5q0ap4i) | Média | Lucas Ribeiro de Souza |  |
 | 2 | [2402. Salas de Reunião III](https://leetcode.com/problems/meeting-rooms-iii/description/) | Difícil | João Víctor Costa Andrade |
-| 3 | []() | Difícil | Lucas Ribeiro de Souza |  |
+| 3 | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/?envType=problem-list-v2&envId=n5q0ap4i) | Difícil | Lucas Ribeiro de Souza |  |
 | 4 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Média | João Víctor Costa Andrade |
 
 ## Disciplina
