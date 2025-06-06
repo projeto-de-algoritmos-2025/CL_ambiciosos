@@ -6,12 +6,6 @@ A questão foi resolvida no LeetCode, onde você pode conferir o enunciado compl
 
 [Ver questão no LeetCode](https://leetcode.com/problems/non-overlapping-intervals/?envType=problem-list-v2&envId=greedy)
 
-## Gravação
-
-A resolução dessa questão foi gravada e você pode assistir ao vídeo para ver o passo a passo da solução.
-
-[Clique aqui para assistir]()
-
 ## Dificuldade
 
 Média
