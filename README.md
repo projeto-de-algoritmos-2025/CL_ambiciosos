@@ -31,6 +31,10 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | 3 | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/?envType=problem-list-v2&envId=n5q0ap4i) | Difícil | Lucas Ribeiro de Souza |  |
 | 4 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Média | João Víctor Costa Andrade |
 
+## Gravação
+
+[Link para a gravação](https://youtu.be/lYBfUinmoEI)
+
 ## Disciplina
 
 Este trabalho foi desenvolvido para a disciplina **Projeto de Algoritmos**, ministrada pelo **Prof. Maurício**, no curso de **Engenharia de Software** da **Universidade de Brasília (UnB)**.
